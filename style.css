@@ -52,8 +52,8 @@ body {
 }
 
 .icon{
-    display: inline;
-    font-size: smaller;
+    display: flex;
+    align-items: center;
 }
 .detail{
     display: inline;
